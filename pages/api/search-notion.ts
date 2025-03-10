@@ -11,6 +11,8 @@ export default async function searchNotion(
     return res.status(405).send({ error: 'method not allowed' })
   }
 
+  console.log('✅ Notion API Key:', process.env.NOTION_API_KEY) // ✅ 추가된 코드
+
   const searchParams: types.SearchParams = req.body
 
   console.log('<<< lambda search-notion', searchParams)
