@@ -9,12 +9,12 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Nurungji Blog',
-  domain: 'sleeeeptight.vercel.app',
-  author: 'Nurungji',
+  name: 'Nooroongjwi house',
+  domain: 'nooroongjwi.vercel.app',
+  author: 'Nooroongjwi',
 
   // open graph metadata (optional)
-  description: 'Nurungji Blog',
+  description: 'Nooroongjwi house',
 
   // social usernames (optional)
   //twitter: 'transitive_bs',
