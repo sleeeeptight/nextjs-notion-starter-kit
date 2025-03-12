@@ -50,6 +50,7 @@ export function PageHead({
       />
 
       <meta name='robots' content='index,follow' />
+      <meta name='google-site-verification' content='UllLAZNPpjvWyFwXOnzF50LjdhORZVRzr78jC03bw7c' />
       <meta property='og:type' content='website' />
 
       {site && (
