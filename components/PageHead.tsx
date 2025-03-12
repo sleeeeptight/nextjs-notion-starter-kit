@@ -49,11 +49,10 @@ export function PageHead({
         key='theme-color-dark'
       />
 
-      <meta name='robots' content='index,follow' />
-    > dig nooroongjwi.vercel.app txt +short
-"google-site-verification=73W0XZpWx3ZP0Ja5Sc-hAisxfYLtQa7PjylUvnFumWg -all"
-      <meta name='naver-site-verification' content='1363029847c47228dce96330cf8763445c282da6' />
-      <meta property='og:type' content='website' />
+     <meta name='robots' content='index,follow' />
+    <meta name='google-site-verification' content='73W0XZpWx3ZP0Ja5Sc-hAisxfYLtQa7PjylUvnFumWg' />
+    <meta name='naver-site-verification' content='1363029847c47228dce96330cf8763445c282da6' />
+     <meta property='og:type' content='website' />
 
       {site && (
         <>
