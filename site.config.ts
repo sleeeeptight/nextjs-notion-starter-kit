@@ -9,12 +9,12 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Nooroongjwi house',
-  domain: 'nooroongjwi.vercel.app',
+  name: 'Nooroongjwi Hose',
+  domain: 'noonjwi.kr',
   author: 'Nooroongjwi',
 
   // open graph metadata (optional)
-  description: 'Nooroongjwi house',
+  description: 'Nooroongjwi Hose',
 
   // social usernames (optional)
   //twitter: 'transitive_bs',
