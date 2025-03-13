@@ -9,12 +9,12 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Nooroongjwi Hose','룽쥐네',
+  name: 'roongjwi-ne',
   domain: 'noonjwi.kr',
   author: 'Nooroongjwi',
 
   // open graph metadata (optional)
-  description: 'Nooroongjwi Hose 누룽쥐네 블로그 입니다.',
+  description: 'roongjwi-ne blog',
 
   // social usernames (optional)
   //twitter: 'transitive_bs',
