@@ -50,7 +50,7 @@ export function PageHead({
       />
 
      <meta name='robots' content='index,follow' />
-    <meta name="naver-site-verification" content="5c9967430b27596320c5b10c3604b3796fd67441" />
+     <meta name="naver-site-verification" content="5c9967430b27596320c5b10c3604b3796fd67441" />
      <meta property='og:type' content='website' />
 
       {site && (
