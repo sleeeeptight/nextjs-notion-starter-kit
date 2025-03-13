@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'Nooroongjwi',
 
   // open graph metadata (optional)
-  description: 'Nooroongjwi Hose',
+  description: 'Nooroongjwi Hose 누룽쥐네 블로그 입니다.',
 
   // social usernames (optional)
   //twitter: 'transitive_bs',
