@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Nooroongjwi Hose',
+  name: 'Nooroongjwi Hose','룽쥐네',
   domain: 'noonjwi.kr',
   author: 'Nooroongjwi',
 
